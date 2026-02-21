@@ -20,10 +20,11 @@ Case#1Input:
 0 1 0 1
 0 1 0 0 
 0 1 0 0
+0 0 1 0
 Start: 0 0
 Target: 3 3
 
 Case#1Output:
 Path found at depth 6 using IDDFS 
-Traversal Order: [(0,0), (1,0), (1,1), (1,2), (2,2), (2,3)];
+Traversal Order: [(0,0), (1,0), (1,1), (1,2), (2,2), (2,3), (3,3)];
 
